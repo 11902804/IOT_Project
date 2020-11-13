@@ -13,8 +13,8 @@ if ($conn->connect_error) {
   die("Connection failed: " . $conn->connect_error);
 }
 
-$Waarde = htmlspecialchars($_GET["Waarde"]);
-$ID = htmlspecialchars($_GET["ID"]);
+$Waarde = htmlspecialchars($_REQUEST["Waarde"]);
+$ID = htmlspecialchars($_REQUEST["ID"]);
 
 
 if (!empty($Waarde)){
