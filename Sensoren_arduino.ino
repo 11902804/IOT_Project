@@ -27,16 +27,16 @@ Serial.print('\n');
 ID = 2;
 Serial.print(ID);
 Serial.print('\n');
-delay(20000); 
+delay(300000); 
 temp = analogRead(tempPin);
    
-temp = temp * 0.48828125;
+temp = temp * 0.03633;
 Serial.print(temp);
 Serial.print('\n'); 
 ID = 1;
 Serial.print(ID);
 Serial.print('\n');
-delay(30000); 
+delay(600000); 
 
 } else {
 
@@ -47,19 +47,15 @@ Serial.print('\n');
 ID = 2;
 Serial.print(ID);
 Serial.print('\n');
-delay(20000);
+delay(300000);
 
 temp = analogRead(tempPin);
-temp = temp * 0.48828125;
+temp = temp * 0.03633;
 Serial.print(temp); 
 Serial.print('\n');
 ID = 1;
 Serial.print(ID);
 Serial.print('\n');
-delay(30000);
+delay(600000);
 }
 }
-
-
-
-

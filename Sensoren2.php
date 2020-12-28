@@ -31,7 +31,7 @@ if ($conn->query($sql) === TRUE) {
 else {
   echo "NOK" . $sql . "<br>" . $conn->error;
 }
-if ($ID){
+if ($ID == 1){
 	$sql = "UPDATE Sensoren SET Naam = 'Temperatuur_Sensor', IP_adres = '84.195.35.26' WHERE ID = $ID";
 	
 }
