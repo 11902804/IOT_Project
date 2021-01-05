@@ -1,5 +1,10 @@
 # IOT_Project
 Dit is de README van mij IOT project.
+
+•	Ten minste één zelfstandig ingebed apparaat met minimaal 2 sensoren die gegevens verzamelen op ten minste twee verschillende intervallen (bijv. Temp / 5 min en licht / 2 min)
+Als alternatief kunt u een software-emulator maken om de hardware na te bootsen, maar deze werkt 24/7
+Hiervoor heb ik een temperatuur en lichtsensor aan een arduino uno gekoppelt zie Sensoren_arduino.ino
+
 •	U verzamelt de gegevens via http-overdracht (dwz u gebruikt een PHP-verzamelpagina)
 Zie document Sensoren2.php
 
