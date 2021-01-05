@@ -1,12 +1,5 @@
 # IOT_Project
-Links:
-Voor het handmatig invoegen van waarde in de tabel:
-https://11902804.pxl-ea-ict.be/Sensoren.html
-Voor het bezigtige 
-https://11902804.pxl-ea-ict.be/Tabel2.php
-https://11902804.pxl-ea-ict.be/tabel2.html
-https://11902804.pxl-ea-ict.be/Grafiek.php
-https://11902804.pxl-ea-ict.be/RSS.php
+Dit is de README van mij IOT project.
 •	U verzamelt de gegevens via http-overdracht (dwz u gebruikt een PHP-verzamelpagina)
 Zie document Sensoren2.php
 
@@ -36,12 +29,14 @@ Zie https://11902804.pxl-ea-ict.be/RSS.php
 En document RSS.php
 
 •	Laat zien dat je JSON ergens uit de MySQL-data hebt gebruikt, of zorg voor een simpele API met de juiste documentatie voor het extern delen van data
-
+Zie Grafiek.php
 
 •	Verslag met flowchart/tekening op GitHub m.b.v. MD
 Zie dit document
 
 •	Wekelijks vooruitgang aangetoond door commits op GitHub
-Was niet mogelijk door breken sleutelbeen
+Was niet mogelijk door het breken van men sleutelbeen. Punt pls?
+
+• Rest van  de punten zijn niet toegepast
 
 
