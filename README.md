@@ -39,4 +39,4 @@ Was niet mogelijk door het breken van men sleutelbeen. Punt pls?
 
 • Rest van  de punten zijn niet toegepast
 
-![Image of Yaktocat](https://octodex.github.com/images/flowchart.png)
+![Image of flowchart](https://github.com/11902804/IOT_Project/blob/main/flowchart.PNG)
